@@ -1,3 +1,3 @@
-# reactPortfolio
+# React Portfolio
 
-React portfolio project, to be created partially on new ubuntu desktop setup.
+This project will serve as a personal portfolio, completely built in react.
