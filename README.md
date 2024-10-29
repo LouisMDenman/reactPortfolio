@@ -1,0 +1,1 @@
+This project is a vite+react web portfolio built for myself entirely on Ubuntu OS. It serves as a place to display all of my project work and information about myself, as well as a learning tool for further reinforcing react principles, developing on Linux, and using source control functionality such as branching and merges.
