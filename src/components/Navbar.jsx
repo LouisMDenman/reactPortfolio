@@ -1,6 +1,8 @@
-
+import { useThemeContext } from 'src/contexts/ThemeContextProvider.jsx'
 
 export function Navbar() {
+    const [currentTheme, toggleTheme] = useThemeContext()
+
     return (
         <div id="navbar">
             <a id="navhome" href="#homepage">
@@ -12,7 +14,11 @@ export function Navbar() {
                 <a href="#experience">Experience</a>
                 <a href="#contact">Contact Me</a>
             </div>
-            <div id="blank"></div>
+            <div id="themeButton">
+                <button id="toggleTheme">
+                    Toggle Theme
+                </button>
+            </div>
         </div>
     ) 
 }
