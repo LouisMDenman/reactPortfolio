@@ -1,0 +1,53 @@
+#navbar {
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 10dvh;
+    background-color: turquoise;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+}
+
+#navhome {
+    margin: 0;
+    padding: 0;
+    width:10%;
+    height: 90%;
+}
+
+#navimg {
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: 100%;
+    border-radius: 50%;
+}
+
+#navbarLinks {
+    margin: 0;
+    padding: 0;
+    width: 80%;
+    height: 100%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+div > div > div > a {
+    margin: 0;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#blank {
+    margin: 0;
+    padding: 0;
+    width: 10%;
+    height: 100%;
+}
