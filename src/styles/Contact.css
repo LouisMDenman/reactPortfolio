@@ -5,6 +5,6 @@
     padding-bottom: 0;
     padding-top: 10dvh;
     width: 100%;
-    height: 90dvh;
+    min-height: 90dvh;
     background-color: light-dark(#1e1e1e, #f8f3f0);
 }
