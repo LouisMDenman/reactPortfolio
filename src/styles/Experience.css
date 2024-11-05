@@ -8,3 +8,32 @@
     min-height: 90dvh;
     background-color: light-dark(#1e1e1e, #f8f3f0);
 }
+
+#experienceContent {
+    display: flex;
+    flex-direction: row;
+}
+
+#education {
+    margin-left: 10%;
+    margin-right: 5%;
+    padding: 0;
+    height: auto;
+    width: 35%;
+}
+
+#professional {
+    margin-left: 5%;
+    margin-right: 10%;
+    padding: 0;
+    height: auto;
+    width: 35%;
+}
+
+.textGroup {
+    text-align: left;
+}
+
+#experienceHeader {
+    color: #ff4008;
+}

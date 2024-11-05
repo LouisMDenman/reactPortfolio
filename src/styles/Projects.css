@@ -8,3 +8,7 @@
     min-height: 90dvh;
     background-color: light-dark(#1e1e1e, #f8f3f0);
 }
+
+#projectsHeader {
+    color: #ff4008;
+}

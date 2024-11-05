@@ -6,7 +6,6 @@ import './styles/Projects.css'
 import './styles/Contact.css'
 import './styles/Navbar.css'
 import './styles/Footer.css'
-//import { useThemeContext } from './contexts/ThemeContextProvider'
 import { HomePage } from './sections/HomePage'
 import { About } from './sections/About'
 import { Experience } from './sections/Experience'
@@ -16,15 +15,14 @@ import { Navbar } from './components/Navbar'
 import { Footer } from './components/Footer'
 
 function App() {
-  //const [currentTheme, toggleTheme] = useThemeContext()
 
   return (
     <>
       <Navbar />
       <HomePage />
       <About />
-      <Experience />
       <Projects />
+      <Experience />
       <Contact />
       <Footer />
     </>
