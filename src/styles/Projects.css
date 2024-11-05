@@ -9,6 +9,39 @@
     background-color: light-dark(#1e1e1e, #f8f3f0);
 }
 
+.projectDiv {
+    margin: 0;
+    padding-left: 10%;
+    padding-right: 10%;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.projectContent {
+    margin: 0;
+    padding: 0;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+}
+
+.projectImg {
+    margin: 0;
+    padding-left: 10%;
+    width: 60%;
+    height: auto;
+    border-radius: 8px;
+}
+
+#link {
+    margin: 0;
+    padding: 0;
+}
+
 #projectsHeader {
     color: #ff4008;
 }
