@@ -37,11 +37,17 @@
     border-radius: 8px;
 }
 
-#link {
+.link {
     margin: 0;
     padding: 0;
 }
 
 #projectsHeader {
     color: #ff4008;
+}
+
+@media screen and (max-width: 550px) {
+    .link {
+        font-size: 0.67em;
+    }
 }

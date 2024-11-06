@@ -31,3 +31,15 @@
     margin-left: 1em;
     margin-right: 1em;
 }
+
+@media screen and (max-width: 550px) {
+    .contactimages {
+        height: 10em;
+        width: 10em;
+        object-fit: cover;
+        border-radius: 20%;
+        border: 1px solid #1e1e1e;
+        margin-left: 1em;
+        margin-right: 1em;
+    }
+}

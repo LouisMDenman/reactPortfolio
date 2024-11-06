@@ -64,3 +64,79 @@ div > div > div > a {
     width: 4em;
     height: 4em;
 }
+
+@media screen and (max-width: 550px) {
+    #navbarLinks > a {
+      font-size: 0.7em;
+    }
+
+    #navimg {
+        margin: 0;
+        padding-left: 10%;
+        padding-top: 10%;
+        width: auto;
+        height: 80%;
+        border-radius: 50%;
+    }
+
+    #toggleTheme {
+        margin: 0;
+        padding: 0;
+        width: 4em;
+        height: 4em;
+        font-size: 0.6em;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    #navbarLinks > a {
+      font-size: 0.5em;
+    }
+
+    #navimg {
+        margin: 0;
+        padding-left: 10%;
+        padding-top: 10%;
+        width: auto;
+        height: 80%;
+        border-radius: 50%;
+    }
+
+    #toggleTheme {
+        margin: 0;
+        padding: 0;
+        width: 4em;
+        height: 4em;
+        font-size: 0.6em;
+    }
+
+    #navbarLinks {
+        margin: 0;
+        padding: 0;
+        width: 75%;
+        height: 100%;
+        display: flex;
+        justify-content: right;
+        align-items: center;
+    }
+
+    #themeButton {
+        margin: 0;
+        padding-right: 5%;
+        width: 10%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media screen and (max-height: 645px) {
+    #toggleTheme {
+        margin: 0;
+        padding: 0;
+        width: 3.5em;
+        height: 3.5em;
+        font-size: 0.8em;
+    }
+}

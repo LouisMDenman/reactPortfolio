@@ -12,19 +12,26 @@
     align-items: center;
 }
 
+#aboutmeSizing {
+    margin: 0;
+    padding-left: 10%;
+    padding-right: 10%;
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    align-items: center;
+}
+
 #aboutmeContent {
     margin: 0;
     padding: 0;
-    width: 50%;
-    display: flex;
-    flex-direction: column;
-    text-align: left;
+    width: 60%;
 }
 
 #profilePic {
-    width: 25em;
-    height: auto;
-    padding-left: 5em;
+    width: 30%;
+    height: 30%;
+    padding-left: 10%;
     border-radius: 8px;
 }
 
