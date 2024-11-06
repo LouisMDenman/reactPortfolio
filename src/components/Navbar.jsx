@@ -1,5 +1,4 @@
 import { useThemeContext } from '../contexts/ThemeContextProvider.jsx'
-import navLogo from 'src/assets/lil_uzi_me.png'
 
 export function Navbar() {
     const [currentTheme, toggleTheme] = useThemeContext()
@@ -7,7 +6,7 @@ export function Navbar() {
     return (
         <div id="navbar">
             <a id="navhome" href="#homepage">
-                <img src={navLogo} id="navimg"/>
+                <img src="../assets/lil_uzi_me.png" id="navimg"/>
             </a>
             <div id="navbarLinks">
                 <a href="#aboutme">About</a>
