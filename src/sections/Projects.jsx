@@ -12,7 +12,7 @@ export function Projects() {
                     </p>
                     <a class="link">https://github.com/LouisMDenman/doldrumDisruptor</a>
                 </div>
-                <img src="src/assets/dd.png" class="projectImg"/>
+                <img src="/assets/dd.png" class="projectImg"/>
             </div>
             <br></br>
             <br></br>
@@ -22,7 +22,7 @@ export function Projects() {
                     <p>This spotify dashboard is another website that is built with React, and makes use of the spotify API to display the top 20 tracks from my personal account. The project involved learning more about account verification and validation, as well as the use of APIs.</p>
                     <a class="link">https://github.com/LouisMDenman/spotifyDashboard</a>
                 </div>
-                <img src="src/assets/sd.png" class="projectImg"/>
+                <img src="/assets/sd.png" class="projectImg"/>
             </div>
             <br></br>
             <br></br>
@@ -32,7 +32,7 @@ export function Projects() {
                     <p>This personal portfolio is made purely with HTML and CSS, and whilst slightly outdated was a foundational learning block for front-end development concepts. It has since been replaced, obviously, by this current portfolio which was built with React in Ubuntu OS.</p>
                     <a class="link">https://github.com/LouisMDenman/portfolio</a>
                 </div>
-                <img src="src/assets/pp.png" class="projectImg"/>
+                <img src="/assets/pp.png" class="projectImg"/>
             </div>
         </div>
     )
