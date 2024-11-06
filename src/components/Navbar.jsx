@@ -6,8 +6,7 @@ export function Navbar() {
     return (
         <div id="navbar">
             <a id="navhome" href="#homepage">
-                <img src="./assets/lil_uzi_me.png" id="navimg"/>
-                <img src="../assets/lil_uzi_me.png" id="navimg"/>
+                <img src="src/assets/lil_uzi_me.png" id="navimg"/>
             </a>
             <div id="navbarLinks">
                 <a href="#aboutme">About</a>
