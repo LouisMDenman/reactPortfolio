@@ -53,7 +53,7 @@ export function Experience() {
                         <p>Responsible for basic data entry, and handling lower importance jobs due to my lack of experience as a junior. In this time I was shadowing senior software developers, and got workplace practice exposure, such as daily standup meetings, office culture and working in a development team. Unfortunately due to the COVID-19 pandemic, I was laid off on good terms with the company.
                         </p>
                         <br></br>
-                        <p>*See my <a href="https://www.linkedin.com/in/louis-denman-2b441a2a4/">LinkedIn</a> if you would like to see my full work history</p>
+                        <p>*See my <a href="https://www.linkedin.com/in/louisdenman/">LinkedIn</a> if you would like to see my full work history</p>
                     </div>
                 </div>
             </div>
