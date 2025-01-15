@@ -12,7 +12,7 @@ export function Experience() {
                         <h3>Diploma of Information Technology, Feb 2024 - Dec 2024</h3>
                         <p><i>Coder Academy</i></p>
                         <p>Major in Full-Stack Web Development</p>
-                        <p>Graduating Dec 2024</p>
+                        <p>Graduated with a High Distinction</p>
                     </div>
                     <br></br>
                     <div class="textGroup">
@@ -34,6 +34,13 @@ export function Experience() {
                 <div id="professional">
                     <h2>Professional</h2>
                     <br></br>
+                    <div class="textGroup">
+                        <h3>AGDATA Australia, Jan 2025 - Current</h3>
+                        <p><i>Full-Stack Software Developer</i></p>
+                        <p>Responsible for the development of new code, as well as the maintenance of existing code for AGDATA systems. This includes multiple API services, proprietary commercial software, and websites/web applications.
+                        </p>
+                        <br></br>
+                    </div>
                     <div class="textGroup">
                         <h3>Boral Concrete, Jan 2022 - Feb 2024</h3>
                         <p><i>Tester, Sep 2023 - Feb 2024</i></p>
